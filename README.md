@@ -12,7 +12,6 @@ I believe programming should be seen as a social skill first and foremost.
 I'm currently looking for FOSS project I can contribute to,
 and will do so if I can find the time.
 
-I am currently rewriting my own site in [yew](https://yew.rs/),
-a front end framework using Rust/Wasm.
-Of course it's overkill, I'm just showing off here.
+### Links
 
+Tou can find me on Mastodon at <a rel="me" href="https://fosstodon.org/@dmetzke">@fosstodon.org@dmetzke</a>.
