@@ -14,4 +14,4 @@ and will do so if I can find the time.
 
 ### Links
 
-Tou can find me on Mastodon at <a rel="me" href="https://fosstodon.org/@dmetzke">@fosstodon.org@dmetzke</a>.
+You can find me on Mastodon at <a rel="me" href="https://fosstodon.org/@dmetzke">@fosstodon.org@dmetzke</a>.
