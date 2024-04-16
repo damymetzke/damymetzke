@@ -1,0 +1,35 @@
+= Damy Metzke
+
+I'm a programmer by day, still a programmer at night.  To me, programming is an expression
+of knowledge and skill, 2 things I highly value.  In my opinion, free and open source software
+perfectly encompasses those ideals.  As of writing this I'm still figuring out how to exactly find
+my place in open source.  But in general I'm intending to host some more projects in the future.
+As well as attempt to support abandoned packages.  Currently I'm primarily interested in the
+following languages:
+
+* Rust
+* Python
+
+== Project: grass
+
+Language::
+  Rust
+Status::
+  Early state - don't accept contributions
+
+Grass is a repository management command line tool.  It uses pre-defined categories and
+configuration to manage repositories.  It's quite limited, and I typically only add features
+I need in that moment.
+
+== Project: reduce
+
+Language::
+  Rust
+Status::
+  Early state - don't accept contributions
+
+Reduce is a web app application using HTMX for dynamic content.  It's designed to streamline a
+lot of planning and management tasks, in a simpler way.  It prefers to use a single opinionated
+simple solution, even if that solution takes a while to get used to.  I've created the project
+because I don't like how modern productivity tools work.  I intent on making it extensible
+through Python, for faster development in the future.
